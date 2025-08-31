@@ -121,7 +121,7 @@ export default function Form() {
           font-family: Arial, sans-serif;
           font-size: 12px;
           line-height: 1.4;
-          margin: 2px 20px;
+          margin:2px 20px;
           color: #000;
         }
         .header {
@@ -197,7 +197,7 @@ export default function Form() {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 50px;
-          margin-top: 20px;
+          margin-top:10px;
         }
         .signature {
           text-align: center;
