@@ -121,7 +121,7 @@ export default function Form() {
           font-family: Arial, sans-serif;
           font-size: 12px;
           line-height: 1.4;
-          margin: 20px;
+          margin: 2px 20px;
           color: #000;
         }
         .header {
