@@ -126,7 +126,7 @@ export default function Form() {
         }
         .header {
           text-align: center;
-          margin-bottom: 30px;
+          margin-bottom: 20px;
           border-bottom: 2px solid #000;
           padding-bottom: 7px;
         }
@@ -137,13 +137,13 @@ export default function Form() {
         .header h5 { font-size: 16px; margin: 10px 0; text-decoration: underline; }
         
         .section {
-          margin-bottom: 8px;
+          margin-bottom: 7px;
         }
         .section-title {
           font-size: 14px;
           font-weight: bold;
           color: #1e40af;
-          margin-bottom: 8px;
+          margin-bottom: 7px;
           text-align:center;
         }
         
@@ -164,7 +164,7 @@ export default function Form() {
         .field-value {
           border-bottom: 1px solid #000;
           padding-bottom: 2px;
-          min-height: 14px;
+          min-height: 10px;
         }
         
         .table {
@@ -238,7 +238,7 @@ export default function Form() {
       </div>
 
       <div class="section">
-        <div class="section-title">Candidate Details</div>
+        
         <div class="details-grid">
           <div class="field">
             <div class="field-label">Name of Candidate:</div>
