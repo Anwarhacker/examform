@@ -230,6 +230,7 @@ export default function Form() {
       </div>
       
       <div class="header">
+      <img src="/logo.png" alt="GEC Bidar Logo" style="height:60px; width:60px; margin-bottom:2px;" onerror="this.style.display='none'" />
         <h1>Government of Karnataka</h1>
         <h2>Department of Collegiate & Technical Education</h2>
         <h3>Government Engineering College, Bidar – 585403</h3>
