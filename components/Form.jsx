@@ -126,7 +126,7 @@ export default function Form() {
         }
         .header {
           text-align: center;
-          margin-bottom: 10px;
+          margin-bottom:5px;
           border-bottom: 2px solid #000;
           padding-bottom: 5px;
         }
@@ -134,7 +134,7 @@ export default function Form() {
         .header h2 { font-size: 14px; margin: 3px 0; }
         .header h3 { font-size: 14px; margin: 3px 0; }
         .header h4 { font-size: 12px; margin: 3px 0; color: #666; }
-        .header h5 { font-size: 16px; margin-top: 10px 0;}
+        .header h5 { font-size: 16px; margin-top: 5px 0;}
         
         .section {
           margin-bottom: 7px;
