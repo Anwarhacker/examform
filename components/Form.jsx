@@ -197,7 +197,7 @@ export default function Form() {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 50px;
-          margin-top: 50px;
+          margin-top: 30px;
         }
         .signature {
           text-align: center;
