@@ -197,7 +197,7 @@ export default function Form() {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 50px;
-          margin-top: 30px;
+          margin-top: 20px;
         }
         .signature {
           text-align: center;
@@ -230,7 +230,7 @@ export default function Form() {
       </div>
       
       <div class="header">
-      <img src="/logo.png" alt="GEC Bidar Logo" style="height:60px; width:60px; margin-bottom:2px;" onerror="this.style.display='none'" />
+      <img src="/logo.png" alt="GEC Bidar Logo" style="height:50px; width:60px; margin-bottom:2px;" onerror="this.style.display='none'" />
         <h1>Government of Karnataka</h1>
         <h2>Department of Collegiate & Technical Education</h2>
         <h3>Government Engineering College, Bidar – 585403</h3>
