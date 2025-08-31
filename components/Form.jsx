@@ -225,7 +225,7 @@ export default function Form() {
     </head>
     <body>
       <div class="no-print">
-        <button class="print-btn" onclick="window.print()">🖨️ Print / Save as PDF</button>
+        <button class="print-btn" onclick="window.print(); setTimeout(() => alert('page layout should be A4 !.'), 1000);">🖨️ Print / Save as PDF</button>
         <button class="print-btn" onclick="window.close()" style="background: #dc2626;">❌ Close</button>
       </div>
       
