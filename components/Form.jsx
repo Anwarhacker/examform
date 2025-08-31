@@ -126,15 +126,15 @@ export default function Form() {
         }
         .header {
           text-align: center;
-          margin-bottom: 20px;
+          margin-bottom: 10px;
           border-bottom: 2px solid #000;
-          padding-bottom: 7px;
+          padding-bottom: 5px;
         }
         .header h1 { font-size: 16px; margin: 5px 0; }
         .header h2 { font-size: 14px; margin: 3px 0; }
         .header h3 { font-size: 14px; margin: 3px 0; }
         .header h4 { font-size: 12px; margin: 3px 0; color: #666; }
-        .header h5 { font-size: 16px; margin: 10px 0; text-decoration: underline; }
+        .header h5 { font-size: 16px; margin-top: 10px 0;}
         
         .section {
           margin-bottom: 7px;
